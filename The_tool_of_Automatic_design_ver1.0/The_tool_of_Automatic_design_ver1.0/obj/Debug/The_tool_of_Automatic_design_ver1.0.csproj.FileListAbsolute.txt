@@ -1,0 +1,10 @@
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\bin\Debug\The_tool_of_Automatic_design_ver1.0.exe.config
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\bin\Debug\The_tool_of_Automatic_design_ver1.0.exe
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\bin\Debug\The_tool_of_Automatic_design_ver1.0.pdb
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\obj\Debug\The_tool_of_Automatic_design_ver1.0.csprojAssemblyReference.cache
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\obj\Debug\The_tool_of_Automatic_design_ver1._0.Automatic_design.resources
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\obj\Debug\The_tool_of_Automatic_design_ver1._0.Properties.Resources.resources
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\obj\Debug\The_tool_of_Automatic_design_ver1.0.csproj.GenerateResource.cache
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\obj\Debug\The_tool_of_Automatic_design_ver1.0.csproj.CoreCompileInputs.cache
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\obj\Debug\The_tool_of_Automatic_design_ver1.0.exe
+C:\Users\82104\source\repos\The_tool_of_Automatic_design_ver1.0\The_tool_of_Automatic_design_ver1.0\obj\Debug\The_tool_of_Automatic_design_ver1.0.pdb
